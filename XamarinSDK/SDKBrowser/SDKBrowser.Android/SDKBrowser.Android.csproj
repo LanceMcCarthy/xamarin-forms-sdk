@@ -173,7 +173,6 @@
     <AndroidAsset Include="Assets\Fonts\Roboto-Thin.ttf" />
     <AndroidAsset Include="Assets\Fonts\Roboto-ThinItalic.ttf" />
     <AndroidAsset Include="Assets\Fonts\telerikfontexamples.ttf" />
-    <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\layout\dataform_popup_editor_fragment.axml">
